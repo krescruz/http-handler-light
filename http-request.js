@@ -29,7 +29,7 @@
     }
 
     function httpPost(url) {
-        return ajax({ 'url': url, 'data': data, 'method': METHODS.GET });
+        return ajax({ 'url': url, 'data': data, 'method': METHODS.POST });
     }
 
     function httpPut() {}
