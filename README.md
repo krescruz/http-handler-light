@@ -4,7 +4,7 @@ httpRequest.get(url, data);
 httpRequest.post(url, data);
 ```
 
-#### Request HTTP
+#### Response HTTP
 ```javascript
 httpResponse.success(...);
 httpResponse.fail(...);
