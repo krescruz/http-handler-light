@@ -1,6 +1,6 @@
 /**
  * Base module for the Http request handler
- * http.js
+ * http-request.js
  *
  * 2017 @krescruz http://github.com/krescruz
  * @license http://opensource.org/licenses/MIT  MIT License
